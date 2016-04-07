@@ -1,9 +1,9 @@
 # Calculator
 HTML, CSS and Javascript Calculator 
 
-<h2> FreeCodeCamp Advanced Front End Development Project. </>
+<h2> FreeCodeCamp Advanced Front End Development Project. </h2>
 
-<h3> See Preview Here </h3>
+<a href="https://htmlpreview.github.io/?https://github.com/DevEMCN/Calculator/blob/master/index.html">See Preview Here</a>
 
 User Stories: </br>
 
